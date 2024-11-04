@@ -1,2 +1,2 @@
 # Responsiveness
-![Responsiveness](./responsiveness methods.PNG)
+![Responsiveness](./responsiveness-methods.PNG)
